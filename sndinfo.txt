@@ -1,0 +1,5 @@
+$alias weapons/chaa12magpocket		weapons/pocket
+weapons/chaa12magunload		"sounds/aa12/magunload.ogg"
+weapons/chaa12magload		"sounds/aa12/magload.ogg"
+weapons/chaa12chamber		"sounds/aa12/chamber.ogg"
+weapons/chaa12fire			"sounds/aa12/fire.ogg"
